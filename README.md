@@ -30,11 +30,11 @@ This repository contains my solutions, assignments, and laboratory work for the 
 
 The codes are organized by topic. Below is an overview of the concepts covered in this repository:
 
-* [x] **Introduction & Pointers**
-* [ ] **Arrays & Strings**
-* [ ] **Linked Lists** (Singly, Doubly, Circular)
-* [ ] **Stacks & Queues**
-* [ ] **Recursion**
+* [x] **Big O Notation**
+* [x] **Arrays**
+* [x] **Linked Lists** (Singly, Doubly, Circular)
+* [x] **Stacks**
+* [x] **Recursion**
 * [ ] **Sorting Algorithms** (Bubble, Merge, Quick, etc.)
 * [ ] **Trees** (Binary Trees, BST, AVL)
 * [ ] **Graphs** (BFS, DFS)
