@@ -43,13 +43,6 @@ The codes are organized by topic. Below is an overview of the concepts covered i
 
 ## 💻 Technologies Used
 
-* **Language:** C / C++ / Java *(Edit this to match the language you are using)*
-* **IDE:** VS Code / IntelliJ / DevC++ *(Edit this)*
+* **Language:** C 
+* **IDE:** VS Code
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
