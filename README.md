@@ -35,9 +35,10 @@ The codes are organized by topic. Below is an overview of the concepts covered i
 * [x] **Linked Lists** (Singly, Doubly, Circular)
 * [x] **Stacks**
 * [x] **Recursion**
+* [x] **Graphs** (BFS, DFS)
 * [ ] **Sorting Algorithms** (Bubble, Merge, Quick, etc.)
 * [ ] **Trees** (Binary Trees, BST, AVL)
-* [ ] **Graphs** (BFS, DFS)
+
 
 *(Note: Checked boxes indicate completed/uploaded assignments)*
 
