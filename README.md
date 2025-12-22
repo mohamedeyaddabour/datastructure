@@ -32,15 +32,15 @@ The codes are organized by topic. Below is an overview of the concepts covered i
 
 * [x] **Big O Notation**
 * [x] **Arrays**
+* [x] **Sparse Matrices** (Triplet Representation)
 * [x] **Linked Lists** (Singly, Doubly, Circular)
-* [x] **Stacks**
-* [x] **Recursion**
-* [x] **Graphs** (BFS, DFS)
-* [ ] **Sorting Algorithms** (Bubble, Merge, Quick, etc.)
-* [ ] **Trees** (Binary Trees, BST, AVL)
+* [x] **Stacks** & **Applications** (Shunting Yard Algorithm)
+* [x] **Queues**
+* [x] **Recursion** (Tower of Hanoi)
+* [x] **Heaps** (Max Heap, Min Heap)
+* [x] **Graphs** (BFS, DFS, Cluster Extraction)
+* [x] **Trees** (Binary Tree Creation from Array)
 
-
-*(Note: Checked boxes indicate completed/uploaded assignments)*
 
 ## 💻 Technologies Used
 
